@@ -4429,6 +4429,34 @@
             "updated": "2026-02-12"
         },
         {
+            "name": "heeee-heeeee",
+            "display_name": "Heeee Heeeee",
+            "version": "1.0.1",
+            "description": "Michael Jackson screaming",
+            "author": {
+                "name": "ylan",
+                "github": "ylancuvier-mj"
+            },
+            "trust_tier": "community",
+            "categories": [
+                "input.required",
+                "resource.limit",
+                "session.start",
+                "task.acknowledge",
+                "task.complete",
+                "task.error"
+            ],
+            "language": "en",
+            "license": "CC-BY-NC-4.0",
+            "sound_count": 6,
+            "source_repo": "ylancuvier-mj/openpeon-heeee-heeeee",
+            "source_ref": "v1.0.1",
+            "source_path": ".",
+            "manifest_sha256": "ffbbb8313dbcd04b310a29131de75fc3a1248e0ef4894d86c76f303a36b00bf8",
+            "added": "2026-06-05",
+            "updated": "2026-06-08"
+        },
+        {
             "name": "high_elf_builder_ru",
             "display_name": "Строитель Высших Эльфов (Russian)",
             "version": "1.1.0",
