@@ -12181,6 +12181,45 @@
             "updated": "2026-03-24"
         },
         {
+            "name": "visiteurs",
+            "display_name": "Les Visiteurs",
+            "version": "1.0.2",
+            "description": "Répliques du film Les Visiteurs",
+            "author": { "name": "Mark Manguno", "github": "donmanguno" },
+            "trust_tier": "community",
+            "categories": [
+                "input.required",
+                "resource.limit",
+                "session.start",
+                "task.acknowledge",
+                "task.complete",
+                "task.error",
+                "user.spam"
+            ],
+            "language": "fr",
+            "license": "fair-use",
+            "sound_count": 12,
+            "total_size_bytes": 406080,
+            "source_repo": "donmanguno/peonping-visiteurs",
+            "source_ref": "v1.0.2",
+            "source_path": ".",
+            "manifest_sha256": "a56147aaf07fcc504cf5607435c7e91fa59cf7ca95c2fe4f4476fd15d055839b",
+            "tags": [
+                "films",
+                "comedie",
+                "français",
+                "movie-quotes",
+                "french",
+                "comedy"
+            ],
+            "preview_sounds": [
+                "silence-la-vilaine-les-visiteurs.mp3",
+                "les-visiteurs-ca-puir.mp3"
+            ],
+            "added": "2026-06-10",
+            "updated": "2026-06-10"
+        },
+        {
             "name": "warcraft-peon",
             "display_name": "Warcraft 3 Peon",
             "version": "1.0.0",
