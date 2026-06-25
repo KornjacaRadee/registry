@@ -11002,6 +11002,42 @@
             "quality": "silver"
         },
         {
+            "name": "stojan-zajebancije-pack",
+            "display_name": "Stojan zajebancije",
+            "version": "1.0.0",
+            "description": "Pack with famous Serbian prank calls",
+            "author": {
+                "name": "KornjacaRadee",
+                "github": "KornjacaRadee"
+            },
+            "trust_tier": "community",
+            "categories": [
+                "session.start",
+                "task.complete",
+                "task.error",
+                "input.required"
+            ],
+            "language": "sr",
+            "license": "MIT",
+            "sound_count": 4,
+            "total_size_bytes": 216854,
+            "source_repo": "KornjacaRadee/peonping-stojan-zajebancije-soundpack",
+            "source_ref": "v1.0.0",
+            "source_path": ".",
+            "manifest_sha256": "87b9115daa1455e63eec09315271968a25429e78ca1b2b21a50e5cfd0c59c476",
+            "tags": [
+                "prank",
+                "serbian",
+                "funny"
+            ],
+            "preview_sounds": [
+                "greeting.mp3",
+                "done.mp3"
+            ],
+            "added": "2026-06-25",
+            "updated": "2026-06-25"
+        },
+        {
             "name": "storm-spirit",
             "display_name": "Storm Spirit (Dota 2)",
             "version": "1.0.0",
